@@ -25,7 +25,7 @@
 
 
 .main {
-    flex-grow: 3;
+    flex-grow: 3; 
     flex-basis: 1px;
     color: #ffffff;
     background: rgb(7,6,0);
